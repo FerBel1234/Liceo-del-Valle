@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+	color: #003;
+	background-color: #003;
+}
+body,td,th {
+	color: #FFF;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: justify;
+}
+tr {
+	text-align: left;
+}
+body p {
+	text-align: justify;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+}
+td {
+	text-align: center;
+}
+a:link {
+	color: #FF0;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FF0;
+}
+a:hover {
+	text-decoration: underline;
+	color: #F90;
+}
+a:active {
+	text-decoration: none;
+	color: #F90;
+}
+p {
+	text-align: center;
+}
+body table tr td blockquote p {
+	text-align: center;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="1340" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td width="1324"><img src="../LOGOLICEO.png" width="1280" height="315" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#003399"><blockquote>
+      <p><a href="../INICIO.html"> INICIO</a> / <a href="../QUIENES SOMOS.html">¿QUIÉNES SOMOS?</a> / <a href="../MODELO EDUCATIVO.html">MODELO EDUCATIVO</a>/ <a href="../NIVELES EDUCATIVOS.html">NIVELES EDUCATIVOS</a> / <a href="../SERVICIOS ESCOLARES.html">SERVICIOS ESCOLARES</a> /  <a href="../CONTACTANOS.html">CONTÁCTANOS</a></p>
+    </blockquote></td>
+  </tr>
+  <tr>
+    <td bgcolor="#000033"><!-- TemplateBeginEditable name="Contenido" -->
+      <p>Contenido</p>
+      <p>&nbsp; </p>
+    <!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td bgcolor="#CC9900"><blockquote>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <p>Ozumbilla  No. 354, Mz.23, Lt.18, Col. Los Héroes Tecámac II, Tecámac, Estado de México.</p>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+    </blockquote></td>
+  </tr>
+</table>
+</body>
+</html>
